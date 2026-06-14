@@ -8,8 +8,6 @@
 
 ---
 
-## ⚡ SYSTEM STATUS: OPERATIONAL ⚡
-
 ```bash
 root@hacker:~# whoami
 > NAME: Cyber Kutty 
