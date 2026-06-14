@@ -8,13 +8,15 @@
 
 ---
 
+## ⚡ SYSTEM STATUS: OPERATIONAL ⚡
+
 ```bash
 root@hacker:~# whoami
-> NAME: Telegram Bot Developer 🤖
+> NAME: Cyber Kutty 
 > SKILLS: Python, Node.js, Webhook, Database Management
 > MISSION: Automating the world, one bot at a time.
 
-​<p align="left">
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -22,6 +24,7 @@ root@hacker:~# whoami
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+​🎯 CONNECT WITH ME (SECURE LINE)
 ​<p align="center">
 <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/CONTACT%20MY%20ID-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram ID" />
@@ -30,10 +33,10 @@ root@hacker:~# whoami
 <img src="https://img.shields.io/badge/UPDATE%20%26%20SUPPORT-Channel-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=111111" alt="Update Support" />
 </a>
 </p>
-
+​📈 GitHub Stats (Hacker Analytics)
 ​<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NightfarKutty&show_icons=true&theme=matrix&hide_border=true" alt="GitHub Stats" />
 </p>
 ​<p align="center">
-<img src="https://views.whatilearened.today/views/github/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.svg" alt="Views" />
+<img src="https://views.whatilearened.today/views/github/NightfarKutty/NightfarKutty.svg" alt="Views" />
 </p>
