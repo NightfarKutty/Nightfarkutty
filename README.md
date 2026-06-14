@@ -24,10 +24,10 @@ root@hacker:~# whoami
 
 ​🎯 CONNECT WITH ME (SECURE LINE)
 ​<p align="center">
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+<a href="https://t.me/KuttyHacker" target="_blank">
 <img src="https://img.shields.io/badge/CONTACT%20MY%20ID-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram ID" />
 </a>
-​<a href="https://t.me/YOUR_SUPPORT_CHANNEL" target="_blank">
+​<a href="https://t.me/TamilChat_Friendship_47" target="_blank">
 <img src="https://img.shields.io/badge/UPDATE%20%26%20SUPPORT-Channel-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=111111" alt="Update Support" />
 </a>
 </p>
