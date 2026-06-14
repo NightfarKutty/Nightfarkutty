@@ -3,7 +3,7 @@ Iam Telegram Bot developer Python Code Music Bot Chat Bot Game Bot All Bots Avai
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Us_Sasuke_efc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Us_sasuke_efx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayarajuchiha@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%23FF0000.svg?logo=telegram&logoColor=white)](https://youtube.com/@Us_sasuke_efx)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Us_Sasuke_efc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Us_sasuke_efx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayarajuchiha@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%23FF0002.svg?logo=telegram&logoColor=white)](https://youtube.com/@Us_sasuke_efx)
 
 
 # 💻 Tech Stack:
